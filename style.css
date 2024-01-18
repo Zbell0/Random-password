@@ -1,0 +1,65 @@
+.container{
+    width: 550px;
+    height: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgba(39, 53, 73, 1);
+    border-radius: 10px;
+    border: solid 5px antiquewhite;
+    color: white;
+    padding-bottom: 200px;
+    margin-top: 100px;
+}
+
+body{
+    background-color:black;
+    
+}
+
+h1{
+    font-weight: bolder;
+
+}
+
+p{
+    font-size: larger;
+}
+
+.title{
+    color:  white;
+}
+
+.subtitle{
+    color: rgba(16, 185, 129, 1);
+}
+
+.GP{
+    color:white;
+    background-color: rgba(16, 185, 129, 1);
+    border: none;
+    border-radius: 5px;
+    height: 42px; 
+    width: 191;
+    margin-top: 40px;
+}
+
+.main{
+    padding-right: 100px;
+    margin-top: 200px;
+}
+
+.password-board{
+    margin-top: 50px;
+    border-top: 2px solid  rgba(47, 62, 83, 1);
+}
+
+.password{
+    width: 211px;
+    height: 39px;
+    margin-top: 50px;
+    background-color:  rgba(47, 62, 83, 1);
+    border: none;
+    border-radius: 2px;
+    color: rgba(16, 185, 129, 1);
+}
